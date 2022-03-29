@@ -1,0 +1,35 @@
+html{
+  border: 4px solid indigo;
+  background-color: indigo;
+  color: yellow;
+}
+
+body {
+  border: 4px solid blue;
+  z-index: 0;
+}
+
+header {
+  border: 4px solid red;
+}
+
+.hero {
+  width: 100%;
+}
+
+a {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: cyan;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+div {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
